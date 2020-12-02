@@ -1,5 +1,5 @@
 world_rank,institution,country,national_rank,quality_of_education,alumni_employment,quality_of_faculty,publications,influence,citations,broad_impact,patents,score,year
-1,"Harvard University",USA,1,7,9,1,1,1,1,,5,100,2012
+1,"Harvard University",USA,1,7,9,1,1,1,1,,5,101,2012
 2,"Massachusetts Institute of Technology",USA,2,9,17,3,12,4,4,,1,91.67,2012
 3,"Stanford University",USA,3,17,11,5,4,2,2,,15,89.5,2012
 4,"University of Cambridge",United Kingdom,1,10,24,4,16,16,11,,50,86.17,2012
