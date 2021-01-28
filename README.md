@@ -13,5 +13,6 @@ This is my list of the most popular machine learning datasets.
 - VoiceGenderRecognition - this database was created to identify a voice as either male or female based on the acoustic properties of voice and speech. The dataset consists of 3168 recorded voice samples collected from men and women.
 - WorldUniversityRankings - research the best universities in the world.
 - YoungPeopleSurvey - data on the preferences, interests, habits, opinions and fears of young people.
+- OrdersByRussiansIndustrySuppliers - data for finding the optimal order from suppliers of components for the production of the product X
 
 Most of the data was taken from the popular resource for solving machine learning problems https://www.kaggle.com/
